@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kos-devUK
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning js, python, gml
-- 💞️ I’m looking to collaborate on any game design projects 
+- 🌱 I’m currently learning js, python, html and css
+- 💞️ I’m looking to collaborate on game design or any other projects
 - 📫 Send me an email @ kostiskonst@gmail.com
 
 <!---

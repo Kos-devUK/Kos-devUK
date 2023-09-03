@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kos-devUK
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning js, python, html and css
-- 💞️ I’m looking to collaborate on game design or any other projects
+- 😍 I love working with js, python, html and css
+- 🌱 I’m currently learning React, Django and Golang!
+- 💞️ I’m looking to collaborate on game developing or any other projects
 - 📫 Send me an email @ kostiskonst@gmail.com
 
 <!---
